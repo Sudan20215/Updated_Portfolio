@@ -1,3 +1,52 @@
 *{
     padding: 0px;
 }
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+.fa:hover {
+    opacity: 0.7;
+}
+.box{
+    width:800px;
+   display: flex;
+   justify-content: center;
+}
+.jumbotron{
+    height:400px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+   
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-github {
+    background: #ff5700;
+    color: white;
+  }
+  .badge{
+      width: 500px;
+      height: 50px;
+      text-emphasis: center;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color:white;
+    text-align: center;
+  }
