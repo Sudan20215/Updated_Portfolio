@@ -1,0 +1,2 @@
+Updated Portfolio:
+This is my updated portfolio site. You can access full information of mine clicking on the navbar. There is my latest information updated in my portfolio with github link, And Resume.
